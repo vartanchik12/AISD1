@@ -1,0 +1,3 @@
+/home/gripulia/Desktop/lab1/lab_for_artan/build/CMakeFiles/main.dir
+/home/gripulia/Desktop/lab1/lab_for_artan/build/CMakeFiles/edit_cache.dir
+/home/gripulia/Desktop/lab1/lab_for_artan/build/CMakeFiles/rebuild_cache.dir
